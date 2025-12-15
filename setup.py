@@ -44,6 +44,7 @@ setup(
         'Django>=1.8.11',
         'djangorestframework>=3.3.3',
         'voluptuous>=0.8.10',
+        'six>=1.17.0',
     ],
     classifiers=[
         'Development Status :: 3 - Alpha',
